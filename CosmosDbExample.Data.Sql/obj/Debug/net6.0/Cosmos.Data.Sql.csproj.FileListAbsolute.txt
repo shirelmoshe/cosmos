@@ -1,0 +1,15 @@
+C:\Users\SHIREL\Desktop\CS-CosmosDB_Northwind_Example-master\CS-CosmosDB_Northwind_Example-master\CosmosDbExample.Data.Sql\bin\Debug\net6.0\Cosmos.Data.Sql.deps.json
+C:\Users\SHIREL\Desktop\CS-CosmosDB_Northwind_Example-master\CS-CosmosDB_Northwind_Example-master\CosmosDbExample.Data.Sql\bin\Debug\net6.0\Cosmos.Data.Sql.dll
+C:\Users\SHIREL\Desktop\CS-CosmosDB_Northwind_Example-master\CS-CosmosDB_Northwind_Example-master\CosmosDbExample.Data.Sql\bin\Debug\net6.0\Cosmos.Data.Sql.pdb
+C:\Users\SHIREL\Desktop\CS-CosmosDB_Northwind_Example-master\CS-CosmosDB_Northwind_Example-master\CosmosDbExample.Data.Sql\bin\Debug\net6.0\Cosmos.Model.dll
+C:\Users\SHIREL\Desktop\CS-CosmosDB_Northwind_Example-master\CS-CosmosDB_Northwind_Example-master\CosmosDbExample.Data.Sql\bin\Debug\net6.0\Cosmos.Model.pdb
+C:\Users\SHIREL\Desktop\CS-CosmosDB_Northwind_Example-master\CS-CosmosDB_Northwind_Example-master\CosmosDbExample.Data.Sql\obj\Debug\net6.0\Cosmos.Data.Sql.csproj.AssemblyReference.cache
+C:\Users\SHIREL\Desktop\CS-CosmosDB_Northwind_Example-master\CS-CosmosDB_Northwind_Example-master\CosmosDbExample.Data.Sql\obj\Debug\net6.0\Cosmos.Data.Sql.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SHIREL\Desktop\CS-CosmosDB_Northwind_Example-master\CS-CosmosDB_Northwind_Example-master\CosmosDbExample.Data.Sql\obj\Debug\net6.0\Cosmos.Data.Sql.AssemblyInfoInputs.cache
+C:\Users\SHIREL\Desktop\CS-CosmosDB_Northwind_Example-master\CS-CosmosDB_Northwind_Example-master\CosmosDbExample.Data.Sql\obj\Debug\net6.0\Cosmos.Data.Sql.AssemblyInfo.cs
+C:\Users\SHIREL\Desktop\CS-CosmosDB_Northwind_Example-master\CS-CosmosDB_Northwind_Example-master\CosmosDbExample.Data.Sql\obj\Debug\net6.0\Cosmos.Data.Sql.csproj.CoreCompileInputs.cache
+C:\Users\SHIREL\Desktop\CS-CosmosDB_Northwind_Example-master\CS-CosmosDB_Northwind_Example-master\CosmosDbExample.Data.Sql\obj\Debug\net6.0\Cosmos.Data.Sql.csproj.CopyComplete
+C:\Users\SHIREL\Desktop\CS-CosmosDB_Northwind_Example-master\CS-CosmosDB_Northwind_Example-master\CosmosDbExample.Data.Sql\obj\Debug\net6.0\Cosmos.Data.Sql.dll
+C:\Users\SHIREL\Desktop\CS-CosmosDB_Northwind_Example-master\CS-CosmosDB_Northwind_Example-master\CosmosDbExample.Data.Sql\obj\Debug\net6.0\refint\Cosmos.Data.Sql.dll
+C:\Users\SHIREL\Desktop\CS-CosmosDB_Northwind_Example-master\CS-CosmosDB_Northwind_Example-master\CosmosDbExample.Data.Sql\obj\Debug\net6.0\Cosmos.Data.Sql.pdb
+C:\Users\SHIREL\Desktop\CS-CosmosDB_Northwind_Example-master\CS-CosmosDB_Northwind_Example-master\CosmosDbExample.Data.Sql\obj\Debug\net6.0\ref\Cosmos.Data.Sql.dll

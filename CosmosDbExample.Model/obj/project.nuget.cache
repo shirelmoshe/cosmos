@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "yeMjGWl0IbboWScEmyq7WVX10yFJ3RIdEBcEJaicstOKrD6IEPprIAFsSEHfKz2m/NpDPr2YqSjJ0yToa4qTHw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\SHIREL\\Desktop\\cosmosEx\\CosmosDB\\CosmosDbExample.Model\\Cosmos.Model.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\SHIREL\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
